@@ -1,0 +1,32 @@
+h3{
+	color: #040bf1eb;
+	font-size: 29px;
+}
+body{
+	    background-color: #b1d4884d;
+}
+.roni{
+	color: red;
+}
+.sarker{
+	color: blue;
+}
+.sanjoy{
+	color: green;
+}
+.map{
+	weight: 50% ;
+	height: 200px;
+}
+.youtube{
+	width:50% ;
+	height:400px ;
+
+}
+div{
+    text-align: center;
+    font-size: 56px;
+    background-color: darkgray;
+}
+
+}
